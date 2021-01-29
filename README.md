@@ -8,7 +8,7 @@
 
 ### De la condición y ejercicio del famoso hidalgo D. Quijote de la Mancha
 
-En un lugar de la Mancha, de cuyo nombre no quiero acordarme5, no ha mucho tiempo que vivía un hidalgo de los  
+En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los  
 de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. Una olla de algo más vaca que carnero,  
 salpicón las más noches, duelos y quebrantos los sábados, lentejas los viernes, algún palomino de añadidura  
 los domingos consumían las tres cuartas partes de su hacienda. El resto della concluían sayo de velarte,  
@@ -53,8 +53,8 @@ más cierta en el mundo. Decía él que el Cid Rui Díaz había sido muy buen ca
 con el caballero de la Ardiente Espada, que de sólo un revés había partido por medio dos fieros y descomunales  
 gigantes. Mejor estaba con Bernardo del Carpio, porque en Roncesvalles había muerto a Roldán el encantado,  
 valiéndose de la industria de Hércules cuando ahogó a Anteón el hijo de la Tierra entre los brazos. Decía mucho  
-bien del gigante Morgante, porque con ser de aquella generación gigántea, que todos son soberbios y descomedidos,  
-él sólo era afable y bien criado.
+bien del gigante Morgante, porque con ser de aquella generación gigántea, que todos son soberbios y  
+descomedidos, él sólo era afable y bien criado.
 
 Pero sobre todos estaba bien con Reinaldos de Montalván, y más cuando le veía salir de su castillo, y robar cuantos  
 topaba, y cuando en Allende robó aquel ídolo de Mahoma, que era todo de oro, según dice su historia.
@@ -77,12 +77,13 @@ moho, luengos siglos había que estaban puestas y olvidadas en un rincón.
 ![Quijote](http://www.cervantesvirtual.com/s3/BVMC_OBRAS/fef/cf8/b48/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/fefcf8b4-82b1-11df-acc7-002185ce6064_21.jpg)
 
 Limpiolas y aderezolas lo mejor que pudo; pero vio que tenían una gran falta, y era que no tenían celada de encaje,  
-sino morrión simple: mas a esto suplió su industria, porque de cartones hizo un modo de media celada, que encajada  
-con el morrión hacia una apariencia de celada entera. Es verdad que para probar si era fuerte, y podía estar al  
-riesgo de una cuchillada, sacó su espada y le dio dos golpes, y con el primero y en un punto deshizo lo que había  
-hecho en una semana: y no dejó de parecerle mal la facilidad con que la había hecho pedazos, y por asegurarse de  
-este peligro, la tornó a hacer de nuevo poniéndole unas barras de hierro por de dentro, de tal manera que él quedó  
-satisfecho de su fortaleza, y sin querer hacer nueva experiencia de ella la diputó y tuvo por celada finísima de encaje.
+sino morrión simple: mas a esto suplió su industria, porque de cartones hizo un modo de media celada, que  
+encajada con el morrión hacia una apariencia de celada entera. Es verdad que para probar si era fuerte, y  
+podía estar al riesgo de una cuchillada, sacó su espada y le dio dos golpes, y con el primero y en un punto  
+deshizo lo que había hecho en una semana: y no dejó de parecerle mal la facilidad con que la había hecho  
+pedazos, y por asegurarse de este peligro, la tornó a hacer de nuevo poniéndole unas barras de hierro por de  
+dentro, de tal manera que él quedó satisfecho de su fortaleza, y sin querer hacer nueva experiencia de ella  
+la diputó y tuvo por celada finísima de encaje.
 
 Fue luego a ver a su rocín, y aunque tenía más cuartos que un real, y más tachas que el caballo de Gonela, que  
 _tantum pellis et ossa fuit_, le pareció que ni el Bucéfalo de Alejandro, ni Babieca el del Cid con él se igualaban.
@@ -103,8 +104,8 @@ días, y al cabo se vino a llamar DON QUIJOTE: de donde, como queda dicho, tomar
 verdadera historia, que sin duda se debía de llamar Quijada, y no Quesada, como otros quisieron decir. Pero  
 acordándose que el valeroso Amadís no sólo se había contentado con llamarse Amadís a secas, sino que añadió el  
 nombre de su reino y patria para hacerla famosa y se llamó Amadís de Gaula, así quiso como buen caballero añadir  
-al suyo el nombre de la suya, y llamarse DON QUIJOTE DE LA MANCHA, con que a su parecer declaraba muy al vivo su  
-linaje y patria, y la honraba con tomar el sobrenombre della.
+al suyo el nombre de la suya, y llamarse DON QUIJOTE DE LA MANCHA, con que a su parecer declaraba muy al vivo  
+su linaje y patria, y la honraba con tomar el sobrenombre della.
 
 Limpias pues sus armas, hecho del morrión celada, puesto nombre a su rocín, y confirmádose a sí mismo, se dio a  
 entender que no le faltaba otra cosa sino buscar una dama de quien enamorarse; porque el caballero andante sin  
@@ -113,12 +114,12 @@ buena suerte me encuentro por ahí con algún gigante, como de ordinario les aco
 le derribo de un encuentro, o le parto por mitad del cuerpo, o finalmente le venzo y le rindo, ¿no será bien  
 tener a quién enviarle presentado, y que entre y se hinque de rodillas ante mi dulce señora, y diga con voz  
 humilde y rendida: yo soy el gigante Caraculiambro, señor de la ínsula Malindrania, a quien venció en singular  
-batalla el jamás como se debe alabado caballero don Quijote de la Mancha, el cual me mandó que me presentase ante  
-la vuestra merced para que la vuestra grandeza disponga de mí a su talante? ¡Oh cómo se holgó nuestro buen  
-caballero cuando hubo hecho este discurso, y más cuando halló a quién dar nombre de su dama! Y fue, a lo que se  
-cree, que en un lugar cerca del suyo había una moza labradora de muy buen parecer, de quien él un tiempo anduvo  
-enamorado, aunque según se entiende, ella jamás lo supo ni se dio cata dello. Llamábase Aldonza Lorenzo, y a ésta  
-le pareció ser bien darle título de señora de sus pensamientos: y buscándole nombre que no desdijese mucho del  
-suyo, y que tirase y se encaminase al de princesa y gran señora, vino a llamarla DULCINEA DEL TOBOSO, porque era  
-natural del Toboso: nombre a su parecer músico y peregrino, y significativo como todos los demás que a él y a sus  
-cosas había puesto.
+batalla el jamás como se debe alabado caballero don Quijote de la Mancha, el cual me mandó que me presentase  
+ante la vuestra merced para que la vuestra grandeza disponga de mí a su talante? ¡Oh cómo se holgó nuestro  
+buen caballero cuando hubo hecho este discurso, y más cuando halló a quién dar nombre de su dama! Y fue, a  
+lo que se cree, que en un lugar cerca del suyo había una moza labradora de muy buen parecer, de quien él un  
+tiempo anduvo enamorado, aunque según se entiende, ella jamás lo supo ni se dio cata dello. Llamábase Aldonza  
+Lorenzo, y a ésta le pareció ser bien darle título de señora de sus pensamientos: y buscándole nombre que no  
+desdijese mucho del suyo, y que tirase y se encaminase al de princesa y gran señora, vino a llamarla DULCINEA  
+DEL TOBOSO, porque era natural del Toboso: nombre a su parecer músico y peregrino, y significativo como todos  
+los demás que a él y a sus cosas había puesto.
